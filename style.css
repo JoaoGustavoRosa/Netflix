@@ -8,20 +8,22 @@
 .principal{
     padding: 100%;
     margin: 0;
+    color: white;
 }
 
-#Back{
+#Net{
     width: 100%;
     left: 0;
     top: 0px;
     position: absolute;
-    
 }
+
 
 #netflix{
     width: 200px;
-    position: absolute;
+    position: fixed;
     left: 70px;
     top: 0px;
 }
+
 
